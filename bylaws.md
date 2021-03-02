@@ -1,6 +1,8 @@
+# Bylaws 
+
 Major decisions affecting everyone will be decided by consensus:
 
-# Consensus
+## Consensus
 
 Decisions that affect the group collectively must be agreed on by all members.
 
@@ -30,7 +32,7 @@ and it does not pass.
 
 Day-to-day work will follow the circle method:
 
-# Circles
+## Circles
 
 Activities are carried out through individual Roles and small groups called Circles, which have the ability to decide and act on matters in their domain. Representatives of Circles meet in a Council to coordinate efforts and determine the domains of each Circle.
 
@@ -63,3 +65,17 @@ coordinate their activities and adjudicate conflicts over domains.
 
 [![CommunityRule derived](https://communityrule.info/assets/CommunityRule-derived-000000.svg)](https://communityrule.info)   
 [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Polling
+
+Ideas can be proposed by anyone at any time. To whittle ideas down to a manageable amount we will discuss them up until a reasonable list of options is available. At that point, we will use ranked choice voting to limit the ideas further. From there individual ideas can be proposed for consensus voting. 
+
+Consensus is achieved if all parties vote yes or abstain from the vote. Abstaining is useful for expedience to acknowledge that you have reviewed the option and you do not have any reason to object to it.
+
+All consensus votes will include a block option as well. Blocking instantly ends the vote and does not achieve consensus. Blocking is to be used when an objection to the idea is serious enough that you feel allowing it to happen would harm us all.
+
+Blocked votes can be brought again after a period of 48 hours to allow for discussion. Blocked votes can also be scrapped entirely or revised based on discussion. 
+
+All polls will have a 48 hour window to accommodate all timezone issues as well as allowing time to rethink and change one's mind. Unless otherwise noted, all polls will openly display the voter's name and will be saved for reference in perpetuity.
+
+Any and all decisions formed through consensus can be revisited for revision or removal at any time.
