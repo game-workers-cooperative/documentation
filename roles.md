@@ -10,13 +10,13 @@ Develops plot, character backgrounds, narration, and dialog trees. Works with ar
 People that make the game go brrrr. Also until IT becomes a thing, these are the best people to come to for help with whatever program/site/app you're working with as well as requests for new integrations between products.
 
 ## Facilitator
-Keeps things moving. Scans the chats for issues that need to be discussed and voted on. Makes announcements to keep everyone updated. Documents things that need to be referred to. Basically the GOAT.
+Keeps things moving. Scans the chats for issues that need to be discussed and voted on. Makes announcements to keep everyone updated. Documents things that need to be referred to. Creates tasks and monitors their progress. Basically the GOAT.
 
 ## Finance
-Makes sure we all get paid and all info legally required gets reported as such. When we start needing to buy things these people will handle purchase orders/subscriptions/licenses.
+Makes sure we all get paid and all info legally required gets reported as such. When we start needing to buy things these people will handle purchase orders, subscriptions, and licenses.
 
-## Community Manager
-Originally envisioned as someone to manage the Discord work with customers/fans in the forums + some things that Facilitator has wound up doing. This will probably need to be trimmed to just the forum stuff and rolled into a social media position.
+## Community Developer
+Manage the Discord server. Work with customers in the forums. Run social media accounts. Find organizations we can partner with. Be a liaison to unions.
 
 ## Tester
 You test the games. Just about all of us are going to be doing this in some capacity, but these are the professionals.
