@@ -29,7 +29,7 @@ The interview will be recorded. We will go over your **Demonstration of Skills**
 1. You will fill out this application, attach your **Demonstration of Skills** send it to hey@lowercase.games
 2. If we accept your application, we will contact you to setup an interview.
 3. After the interview we will review your application and vote on whether or not to bring you on as a probationary member.
-4. If we vote to bring you on, you will be sent the <a href="https://github.com/game-workers-cooperative/documentation/blob/main/extpectations.md">expectations document</a> and you will be required to sign it before your probation period begins.
+4. If we vote to bring you on, you will be sent the <a href="https://github.com/game-workers-cooperative/documentation/blob/main/expectations.md">expectations document</a> and you will be required to sign it before your probation period begins.
 5. The probation period will last two months. At the end of the probation period we will vote on whether or not to bring you on as a full member.
 
 
