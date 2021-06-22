@@ -6,9 +6,9 @@
 
 ### Demonstration of Skills
 
-For this requirement, you can choose to provide a portfolio of your work or we can assign you a theme and we'll run an internal game jam for you with a time limit of 72 hours.
+For this requirement, you can choose to provide a portfolio of your work or we can assign you a theme and you'll be expected to create a game based on that theme with a time limit of one week.
 
-If you choose to create a game, we know that the time limit will not allow you to create a masterpiece, but we do expect you highlight your skills and be able to present the game to us. The code should be made publicly available for review and we should be provided with a link to it.
+If you choose to create a game, we know that the time limit will not allow you to create a masterpiece, but we do expect you highlight your skills and be able to present the game to us. The code should be made publicly available for review and we should be provided with a link to it. Feel free to choose any engine that you are comfortable with as long as you can show the end result, explain how it was made, and discuss why you designed it the way you did.
 
 ### Interview
 
