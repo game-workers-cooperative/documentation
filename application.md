@@ -14,7 +14,23 @@ If you choose to create a game, we know that the time limit will not allow you t
 
 The interview will be recorded. We will go over your **Demonstration of Skills** as well as discuss member requirements. We will ask the following questions at a minimum:
 
-<fill in template>
+What is the last game project you worked on?
+
+What piece of work related to your field are you proudest of?
+
+Do you have any experience in game development?
+
+What would you like to contribute as a member of lowercase games?
+
+What appeals to you about working in a worker co-op?
+
+What is your favorite genre? What is your favorite game in that genre, and why?
+
+Do you have any experience doing work in a group setting?
+
+Are you comfortable working independently and setting your own hours?
+
+We currently meet weekly at 10 PM EST on Sundays. Are you able to attend these weekly meetings?
 
 ## Process
 
