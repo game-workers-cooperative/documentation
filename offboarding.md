@@ -1,3 +1,5 @@
+[DRAFT]
+
 # Offboarding
 * Remove from GitHub team
 * Remove member role in Discord

@@ -1,3 +1,5 @@
+[DRAFT]
+
 # Bylaws 
 
 Major decisions affecting everyone will be decided by consensus:
