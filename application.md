@@ -6,15 +6,15 @@
 
 ### Demonstration of Skills
 
-For this requirement, you can choose to provide a portfolio of your work or we can assign you a theme and you'll be expected to create a game based on that theme with a time limit of one week.
+For this requirement, you can choose to provide a portfolio of your work or we can assign you a theme and you'll be expected to create a prototype, build models, draw art, write or storyboard some scenes, or otherwise create something according to your skillset based on that theme. There will be a one week time limit in place once we assign you the theme.
 
-If you choose to create a game, we know that the time limit will not allow you to create a masterpiece, but we do expect you highlight your skills and be able to present the game to us. The code should be made publicly available for review and we should be provided with a link to it. Feel free to choose any engine that you are comfortable with as long as you can show the end result, explain how it was made, and discuss why you designed it the way you did.
+If you choose to create a prototype, we know that the time limit will not allow you to create a masterpiece, but we do expect you highlight your skills and be able to present the game to us. The code should be made publicly available for review and we should be provided with a link to it. Feel free to choose any engine that you are comfortable with as long as you can show the end result, explain how it was made, and discuss why you designed it the way you did.
 
 ### Interview
 
 The interview will be recorded. We will go over your **Demonstration of Skills** as well as discuss member requirements. We will ask the following questions at a minimum:
 
-* What is the last game project you worked on?
+* What was the last relevant project you worked on?
 * What piece of work related to your field are you proudest of?
 * Do you have any experience in game development?
 * What would you like to contribute as a member of lowercase games?
