@@ -47,18 +47,42 @@ Section III: Ownership
 3.3 The Co-op shall not discriminate on the basis of age, race, color, sex, sexual orientation, gender identity, religion or atheism, national or ethnic origin or ancestry, citizenship status, political beliefs, veteran status, disability status, marital status, source of income, arrest record, conviction record, less than honorable discharge, physical appearance, genetic identity, familial status, student status, domestic partner status, receipt of rental assistance, refusal to disclose their social security number, homelessness, unemployment status or any other category protected by local, state or federal law.
 
 3.4: Submitting a completed Ownership application and payment towards an Owner equity share is required in order to become an Owner. An application for Ownership may be subject to approval by the Board of Directors.
-@todo flesh out this section on how to become an owner maybe include the trial period here
 
-3.5: The Owner equity share is the dollar amount that is required to purchase an Ownership share. The Board of Directors may make provisions allowing the purchase of this share in installments over time and may allocate a portion of each payment as a non-refundable administrative fee. Any change to the amount of the Owner equity share shall be approved by the Owners using the signed ballot process described in Section 4.7.
-@todo ballot process might be our polling process
+3.4.1 Application
+The application requirements and process will be decided by the owners and posted publicly. The application is currently viewable at https://github.com/game-workers-cooperative/documentation/blob/main/application.md. After applying, the application will be reviewed by the Owners and decisions will be made according to the process described in section 4.7.
 
-3.6: An Owner is considered to be current and in good standing if the Owner equity share is paid in full or the required installment payments have been made.
-@todo add requirements listed in the application
+3.4.2 Owner Equity Share
+The Owner equity share is the dollar amount that is required to purchase an Ownership share. The Board of Directors may make provisions allowing the purchase of this share in installments over time and may allocate a portion of each payment as a non-refundable administrative fee. Any change to the amount of the Owner equity share shall be approved by the Owners using the signed ballot process described in Section 4.7. The Owner equity share value is currently set at $100. Payment will only be required after the applicant has completed their trial period.
 
-3.7: Ownership may be terminated voluntarily by an Owner at any time upon written notice to the Co-op. Ownership will be considered voluntarily terminated if not kept current.
-@todo maybe look at that second sentence more
+3.4.3 Trial Period
+After an application has been accepted, a prospective Owner will begin a trial period. This trial period will last for six months and the prospective Owner will be held to the following standards:
+* Show up for at least 75% of weekly meetings. If you cannot make it to the meeting, you must watch the recording before the next meeting is held.
+* Participate in discussion forums. Contribute on a relatively frequent basis (3+ days a week) to discussions relating to your role and preferably to open discussions as well.
+* Meaningfully contribute to the tasks assigned to your role. Add tasks, comment on them, assign yourself to things, and usher them through the system.
+* Participate in at least 75% of votes.
 
-3.8: Ownership may be terminated involuntarily only for cause by the Board of Directors. “For cause” termination must be based upon seriously improper conduct that must include at least one of the following circumstances:
+At the end of the trial period, the Owners will vote on accept the prospective Owner as a full Owner. If so, they will be held to the expectations listed in 3.4.4.
+
+3.4.4 Owner Expectations
+An Owner is considered to be current and in good standing if the Owner equity share is paid in full or the required installment payments have been made. Additionally, Owners will be held to the following standards:
+
+* Show up for at least 75% of weekly meetings. If you cannot make it to the meeting, you must watch the recording before the next meeting is held.
+* Participate in discussion forums. Contribute on a relatively frequent basis (4+ days a week) to discussions relating to your role and preferably to open discussions as well.
+* Meaningfully contribute to the tasks assigned to your role. Add tasks, comment on them, assign yourself to things, and usher them through the system.
+* Participate in 100% of votes.
+* Provide consistent office hours. Share your hours with the rest of the members and inform everyone if they will change for any reason.
+
+If an Owner doesn't continue to meet these standards, then the Owner will be no longer considered in good standing. At that point, the Owners will begin a formal evaluation of membership.
+ 
+3.4.5 Payment and Compensation
+Payment will be calculated based on AORTA. Patronage formula needs to be figured out here
+@todo flesh out this section 
+
+3.7 Voluntary Termination
+Ownership may be terminated voluntarily by an Owner at any time upon written notice to the Co-op. Ownership may also be terminated if an Owner is not considered in good standing for three consecutive months.
+
+3.8: Involuntary Termination
+Ownership may be terminated involuntarily only for cause by the Board of Directors. “For cause” termination must be based upon seriously improper conduct that must include at least one of the following circumstances:
     - A willful failure to deal fairly with the Co-op in connection with a matter that the Owner has a material conflict of interest;
     - A violation of criminal law at or in connection with activities of the Co-op;
     - A transaction with the Co-op from which the Owner derived an improper personal benefit.
@@ -72,8 +96,7 @@ Person(s) who have had their Ownership terminated involuntarily may make an appe
 
 3.11: Ownership rights and interests, including any Owner equity share balance, may not be sold, assigned or otherwise transferred in any way to another person or entity except as provided for by the Board of Directors.
 
-3.12: The Board of Directors may establish other categories of patrons that may from time to time be extended certain Owner benefits, such as being able to make purchases at promotional Owner prices, without having purchased an Owner equity share, however these designations will not bestow any right to vote or to be elected to the Board.
-@todo clarify what owner benefits are
+3.12: The Board of Directors may establish other categories of patrons that may from time to time be extended certain Owner benefits, such as being able to make purchases at promotional Owner prices, without having purchased an Owner equity share, however these designations will not bestow any right to vote or to be elected to the Board. The Board of Directors may establish what Owner benefits are.
 
 Section IV: Owner Meetings
 
@@ -87,18 +110,28 @@ Section IV: Owner Meetings
 4.4: The President or someone appointed by the Board of Directors shall chair all Owners’ meetings. Minutes shall be taken by one appointed by the Chair. The order of business shall be approved by the Owners.
 
 4.5: Quorum at an Owners’ meeting shall be 2/3 of Owners.
-@todo get percentage
 
 4.6: All current Owners, whether fully paid or not, may vote in meetings of the Owners. Owners shall each have only one vote and shall designate one person to cast that vote. In the event that the Co-op receives more than one vote cast by an Owner:
     - Electronic votes cast will take priority over any paper votes cast;
     - The first paper vote received from an Owner contact will take priority over any other paper votes received from that same Owner contact.
-@todo revise for people that might not be able to make it to the meeting
 
 4.7: Unless otherwise required by state statute or these bylaws, voting at an Owners’ meeting shall be by majority vote. Voting on significant questions, including but not limited to amending these Bylaws, changing the Owner equity share, or approving expenditures on expansion shall be by signed ballot in accordance with the following process:
     - Ballots and the full text of the question being voted on along with the notice of the special meeting at which the ballots will be counted shall be mailed to all Owners. This special meeting shall be held no later than six weeks after the distribution of the ballots;
     - Votes may be cast by paper ballot or via an online voting process. Completed paper ballots shall be returned to the Co-op by mail or deposited in a ballot box designated for that purpose at the Co-op. The ballots shall be marked with the Owner’s name, number, signature, and date of signing. Alternately, the Owner’s name, number, and signature and date of signing may be marked on the outside of a sealed envelope containing the ballot. In addition to the signed ballot process, the Board may establish procedures for voting by electronic mail or through an Internet web site, and such votes shall be considered equivalent to submitting a signed ballot;
     - Ballots shall be received by the time that the special meeting is called to order if they are to be counted as valid votes.
 @todo revise this with polling information in other bylaws doc
+
+Votes can be proposed by any Owner in good standing at any meeting. Owners will vote via ranked choice voting when choices are non-binary. Binary proposals will be decided through consensus voting.
+
+Consensus is achieved if all parties vote yes or abstain from the vote. 
+
+All consensus votes will include a block option as well. Blocking instantly ends the vote and does not achieve consensus. Blocking is to be used when an objection to the idea is serious enough that you feel allowing it to happen would harm the Co-op.
+
+Blocked votes can be brought again after a period of at least 48 hours to allow for discussion. Blocked votes can also be scrapped entirely or revised based on discussion.
+
+All polls will have at least a 48 hour window to accommodate all timezone issues as well as allowing time to rethink and change one's mind. Unless otherwise noted, all polls will openly display the voter's name and will be saved for reference in perpetuity.
+
+Any and all decisions formed through consensus can be revisited for revision or removal at any time.
 
 4.8: Petitions: Any matter that the Owners wish to put before the Ownership via a Co-op vote may be placed on the ballot in the following way:
     - If a petition signed by at least five percent (5%) of the total number of Owners in good standing is submitted, the President shall place the issue on the ballot for the next regularly scheduled Co-op vote;
