@@ -123,7 +123,7 @@ Section IV: Owner Meetings
 
 Votes can be proposed by any Owner in good standing at any meeting. Owners will vote via ranked choice voting when choices are non-binary. Binary proposals will be decided through consensus voting.
 
-Consensus is achieved if all parties vote yes or abstain from the vote. 
+Consensus is achieved if 70% of non-abstaining Owners vote yes. 
 
 All consensus votes will include a block option as well. Blocking instantly ends the vote and does not achieve consensus. Blocking is to be used when an objection to the idea is serious enough that you feel allowing it to happen would harm the Co-op.
 
@@ -141,18 +141,18 @@ Section V: Board of Directors
 
 5.1: The Board of Directors shall manage the business and affairs of the Co-op.
 
-5.2: The Board of Directors shall consist of no more than nine individuals. All Directors shall be Owners in good standing of the Co-op who are at least 18 years of age.  Only one person per Owner account can be elected or appointed to the Board at any one time.
+5.2: The Board of Directors shall consist of no more than nine individuals. All Directors shall be Owners in good standing of the Co-op who are at least 18 years of age. 
 @todo revisit how many people are on the board. make it vague in the articles and define it here.
 
-5.3: Directors shall be elected for terms of three years, except that it may occasionally be necessary to have a Director elected for a shorter term in order to ensure that three terms expire in each year.
-@todo revisit this once we figure out how many people on the board we'll have
+5.3: Directors shall be elected for terms of one year, except that it may occasionally be necessary to have a Director elected for a shorter term in order to ensure that the next election happens at the regular time.
+
 
 5.4: Elections for the Board of Directors shall be conducted by a signed ballot in accordance with the following process:
     - Candidates must submit their candidate applications at least 30 days before the Annual Meeting. Directors will be elected during a voting period that is at least two weeks in length and includes the Annual Meeting;
     - Ballots and election information are distributed to all Owners along with notice of the special meeting at which the ballots will be counted in accordance with state statutes. This special meeting must be held within six weeks of the Annual Owners’ Meeting;
     - Votes may be cast by paper ballot or via an online voting process. Completed paper ballots may be returned to the Co-op by mail or deposited in a ballot box designated for that purpose. The ballots shall be marked with the Owner’s name, number, signature, and date of signing. Alternately, the Owner’s name, number, and signature and date of signing may be marked on the outside of a sealed envelope containing the ballot. In addition to the signed ballot process, the Board may establish procedures for voting by electronic mail or through an Internet web site, and such votes shall be considered equivalent to submitting a signed ballot;
-    - In the event of a tie, the Board will decide which candidate receives the longest term or open position in question, unless the nominees can come to agreement on these matters amongst themselves.
-@todo maybe replace with polling process and ask lawyer about it
+    - In the event of a tie, the Board will decide which candidate receives the position in question, unless the nominees can come to agreement on these matters amongst themselves.
+@todo ask lawyer about it
 
 5.5: Directors shall disclose their actual or potential conflicts of interest in any matter under consideration by the Board, and unless requested otherwise by majority vote of the other Board members, shall recuse themselves from deliberation or decision on the matter. If there is a dispute regarding whether any conflict of interest or potential conflict of interest exists, the Board President or their designee running the meeting will make the decision.
 
@@ -165,15 +165,15 @@ Section V: Board of Directors
         - the Director in question is first given no less than ten calendar days advance written notice that this subject will be on the Board’s agenda, and
         - the Director in question is accorded an adequate opportunity to respond in person or in writing regarding their alleged violation before the expulsion vote is taken by the Board;
     - By a majority vote of the Owners of the Co-op, using the ballot process described in Section 4.7. The quorum for a vote to recall a Director shall be five percent of the current Owners.
-@todo talk with lawyer because all board members will be employees
+@todo lawyer
 
 5.8: In the event of a vacancy on the Board of Directors, the Board may choose to temporarily fill the vacancy by majority vote of the Directors in office or to leave the position vacant. An election by the Owners at the next Annual Owners’ Meeting shall fill the position for the remainder of the term, if any remains.
 
-5.9: The Board of Directors shall meet at least once quarterly at a time and place determined by the Board and posted as per Bylaw Section 4.1. A quorum shall consist of a majority of the Directors in office. Special meetings of the Board can be called by the President, and all Directors shall be notified at least seven days prior to such a meeting.
-@todo make sure majority is clearly defined everywhere it is used
+5.9: The Board of Directors shall meet at least once quarterly at a time and place determined by the Board and posted as per Bylaw Section 4.1. A quorum shall consist of a majority (greater than 50%) of the Directors in office. Special meetings of the Board can be called by the President, and all Directors shall be notified at least seven days prior to such a meeting.
+
 
 5.10: The Board of Directors shall establish a procedure for decision-making at their meetings. This procedure may be amended from time to time by the Board according to the decision making process then in effect.
-@todo maybe revise with polling process
+
 
 5.11: The principal officers of the Co-op shall be a President, a Vice President, a Secretary, and a Treasurer. They shall be elected by the Board for a term of one year. The President and Vice President shall be Directors. The Secretary and Treasurer may be the same person and need not be a Director.
 
@@ -181,8 +181,8 @@ Section V: Board of Directors
 
 5.13: If the office of the President becomes vacant, the Vice President shall become President. If the office of the Vice President becomes vacant, the Board of Directors shall appoint a Vice President to serve until the next officer elections.
 
-5.14: The Board or President may appoint standing or special committees to advise the Board or to exercise such authority as the Board shall designate. Members of all Board committees shall be approved by the Board and may be removed or replaced at the discretion of the Board. Committees shall elect their own chairs. Non-Director membership is encouraged for all committees, and they shall have all the same duties, responsibilities and voting powers as members who are Directors. The members of a committee may not include a majority of the current Directors.
-@todo think about this
+5.14: The Board or President may appoint standing or special committees to advise the Board or to exercise such authority as the Board shall designate. Members of all Board committees shall be members of good standing approved by the Board and may be removed or replaced at the discretion of the Board. Committees shall elect their own chairs. Non-Director membership is encouraged for all committees, and they shall have all the same duties, responsibilities and voting powers as members who are Directors. The members of a committee may not include a majority of the current Directors.
+
 
 Section VI: Finances
 
@@ -195,7 +195,7 @@ Section VI: Finances
 6.4: Unbudgeted capital expenditures over one percent of the Co-op’s total equity shall be approved by the Board of Directors. Any decision to buy or sell the Co-op’s building(s) or to spend over ten percent (10%) of the Co-op’s total equity on an expansion project must be approved by the Owners, using the ballot process described in Section 4.7. Total equity for these purposes is defined as (Total Assets-Total Liabilities=Total Equity).
 
 6.5: Net proceeds as defined in Chapter 185, Wisconsin Statutes shall be considered income to the Co-op and may be credited to allocated or unallocated surplus or reserves of the cooperative and may be applied to losses incurred in prior years. The Board may, at its discretion, pay out or allocate all or part of the net proceeds to the Owners as a patronage rebate.
-@todo maybe add patronage formula here
+
 
 Section VII: Bylaws
 
