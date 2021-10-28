@@ -15,22 +15,86 @@ If you choose to create a prototype, we know that the time limit will not allow 
 The interview will be recorded. We will go over your **Demonstration of Skills** as well as discuss member requirements. We will ask the following questions at a minimum:
 
 * What was the last relevant project you worked on?
+    * What did you contribute to that project?
 * What piece of work related to your field are you proudest of?
+    * What piece of work related to your field are you proudest of?
+    * What makes you proud about it?
+    * How did this project push you to improve?
 * Do you have any experience in game development?
-* What would you like to contribute as a member of lowercase games?
+    * If yes, which games have you worked on?
+    * Were these personal projects, done with a group of people for fun, or paid work?
+* Roles at lowercase games will be mostly solidified but we will occasionally need to help in other areas. Additionally, we will always support educating ourselves and each other so that we can improve at our current role or even move to a new one over time. What is your primary skillset that you can contribute as a member of lowercase games?
+    * What other skills do you have?
+    * Are there any skills you would like to gain in the future?
 * What appeals to you about working in a worker co-op?
-* What is your favorite genre? What is your favorite game in that genre, and why?
+    * Have you worked for a co-op before? Give us an overview of how things operated.
+* What is your favorite genre and why?
+    * What is your favorite game in that genre and what sets it apart from all the others?
 * Do you have any experience doing work in a group setting?
+    * Did you enjoy the groups that you've worked with?
+    * What was the best part of working in a group?
+    * Did you encounter any difficult people or interactions within that group? How were the issues resolved?
 * Are you comfortable working independently and setting your own hours?
 * We currently meet weekly at 10 PM EST on Sundays. Are you able to attend these weekly meetings?
+
+## Optional
+
+### References
+
+If possible, please provide no more than two (2) references that we can reach out to regarding your past work and no more than (2) personal references.
+
+#### Professional Reference 1
+
+**Name**
+_________________________________
+
+**Phone Number**
+_________________________________
+
+**Email Address**
+_________________________________
+
+#### Professional Reference 2
+
+**Name**
+_________________________________
+
+**Phone Number**
+_________________________________
+
+**Email Address**
+_________________________________
+
+#### Personal Reference 1
+
+**Name**
+_________________________________
+
+**Phone Number**
+_________________________________
+
+**Email Address**
+_________________________________
+
+#### Personal Reference 2
+
+**Name**
+_________________________________
+
+**Phone Number**
+_________________________________
+
+**Email Address**
+_________________________________
+
 
 ## Process
 
 1. You will fill out this application, attach your **Demonstration of Skills** send it to hey@lowercase.games
-2. If we accept your application, we will contact you to setup an interview.
-3. After the interview we will review your application and vote on whether or not to bring you on as a probationary member.
-4. If we vote to bring you on, you will be sent the <a href="https://github.com/game-workers-cooperative/documentation/blob/main/expectations.md">expectations document</a> and you will be required to sign it before your probation period begins.
-5. The probation period will last two months. At the end of the probation period we will vote on whether or not to bring you on as a full member.
+2. If the current members accept your application, someone will contact you to setup an interview.
+3. After the interview the current members will review your application and vote on whether or not to bring you on as a probationary member.
+4. If the current members vote to bring you on, you will be sent the <a href="https://github.com/game-workers-cooperative/documentation/blob/main/expectations.md">expectations document</a> and you will be required to sign it before your probation period begins.
+5. The probation period will last two months. At the end of the probation period the current members will vote on whether or not to bring you on as a full member.
 
 
 **Name**
@@ -46,4 +110,7 @@ _________________________________
 _________________________________
 
 **Country**
+_________________________________
+
+**Fluent Languages**
 _________________________________
