@@ -10,11 +10,11 @@ For this requirement, you can choose to provide a portfolio of your work or we c
 
 If you choose to create a prototype, we know that the time limit will not allow you to create a masterpiece, but we do expect you highlight your skills and be able to present the game to us. The code should be made publicly available for review and we should be provided with a link to it. Feel free to choose any engine that you are comfortable with.
 
-Please include a description of your prototype that includes, at least, what you were trying to achieve as well as a short explanation of how you designed it and why you designed it the way you did.
+Please include a description of everything that you submit that includes, at least, what you were trying to achieve as well as a short explanation of how you created it and why you made it the way you did.
 
 ### Interview
 
-The interview will be recorded. We will go over your **Demonstration of Skills** as well as discuss member requirements. We will ask the following questions at a minimum:
+The interview conducted via Zoom and it will be recorded. We will go over your **Demonstration of Skills** as well as discuss member requirements. We will ask the following questions at a minimum:
 
 * Tell us about yourself.
     * What do you do when you aren't playing or making games?
@@ -50,7 +50,12 @@ For certain kinds of positions, we will ask more questions than the ones listed 
 * What artists or styles have influenced you the most? Why?
 * Which game(s) had your favorite art direction? What was interesting about the art in those games and why?
 
-##### Programmers
+##### Writers
+
+* What authors or genres have influenced you the most? Why?
+* What is your favorite piece of literature and why?
+
+##### Developers
 
 * Pick a game from one you've previously discussed here or your prototype and tell us a feature you would add to it or how a current feature could be implemented to work better. Explain know how you would design and test the feature.
 
