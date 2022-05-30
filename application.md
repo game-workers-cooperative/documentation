@@ -39,7 +39,7 @@ The interview conducted via Zoom and it will be recorded. We will go over your *
     * What was the best part of working in a group?
     * Did you encounter any difficult people or interactions within that group? How were the issues resolved?
 * Are you comfortable working independently and setting your own hours?
-* What is something from your background or experience that you would like to share with us, but we have not asked about?
+* What have we not touched on that you feel is important for us to know about?
 * We currently meet weekly at 10 PM EST on Sundays. Are you able to attend these weekly meetings?
 
 #### Additional Questions
